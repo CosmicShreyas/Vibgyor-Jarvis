@@ -1,0 +1,34 @@
+{
+  "Main Modules": [
+    "Wall Unit",
+    "Base Unit",
+    "Tall Unit",
+    "Loft",
+    "Semi Tall Unit",
+    "Wardrobe",
+    "Open Wall Unit",
+    "Open Tall Unit",
+    "Open Base Unit",
+    "Backpanel",
+    "Architrave",
+    "Wall Panel",
+    "Skirting Platform",
+    "Partition"
+  ],
+  "Ancillary Modules": [
+    "Drawers",
+    "Panels (variable thicknesses)",
+    "Profiles",
+    "Tandem Drawers",
+    "Organisers",
+    "Flap-up",
+    "Flap-down",
+    "Corner Accessory",
+    "Shelves with support",
+    "Table Top",
+    "Exposed Sides",
+    "Sliding Mechanism",
+    "Handles",
+    "Pelmet"
+  ]
+}
